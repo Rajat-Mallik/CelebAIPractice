@@ -1,0 +1,1 @@
+This is file3.txt created after merging of main and branch1.
